@@ -23,6 +23,7 @@ mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src/
 ```
 - Clone the latest Intel&reg; RealSense&trade; ROS from [here](https://github.com/intel-ros/realsense/releases) into 'catkin_ws/src/'
+- Follow the installation instructions [here](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md) to install librealsense
 
 ```bash
 catkin_init_workspace 
